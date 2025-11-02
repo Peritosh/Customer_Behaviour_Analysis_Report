@@ -55,9 +55,10 @@ Customer_Behaviour_Dashboard.png
 ![Customer_Behaviour_Dashboard](Customer_Behaviour_Dashboard.png)
 
 ## Project Insights
-* Total Players: The FC26 dataset includes 18,410+ active players.
-* Global Coverage: Players come from 160 countries, showing worldwide representation.
-* Age Range: The youngest player is 16 and the oldest is 44, highlighting the wide age spectrum.
+* Total Customers: 3,900.
+* Gender ratio: Male - 2652
+                Female - 1248
+* Average Review Rating: 3.75.
 * Top Valued Players: Identified the most valuable players, with top 10 listed by market value.
 * Leagues & Nations: Ranked top leagues and countries based on player count.
 * Player Ratings: Most players fall within a common rating range, giving insight into overall skill distribution.
