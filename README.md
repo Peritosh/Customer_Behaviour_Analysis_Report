@@ -51,7 +51,8 @@ The main objective is to analyze customers shopping behaviour ,subscription type
 * Created Presentation for easy explanation.
 
 ## Dashboard
-![FC26 Dashboard](FC26_Dashboard.png)
+Customer_Behaviour_Dashboard.png
+![Customer_Behaviour_Dashboard](Customer_Behaviour_Dashboard.png)
 
 ## Project Insights
 * Total Players: The FC26 dataset includes 18,410+ active players.
