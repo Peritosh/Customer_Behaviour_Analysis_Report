@@ -22,23 +22,33 @@ The main objective is to analyze customers shopping behaviour ,subscription type
 * Sales by shipping type
 
 ## Analytical Questions Answered
-* Which country has the highest number of players?
-* Who are the most valuable players in the game?
-* Which leagues have the largest player pool?
-* What is the most common overall rating?
-* How is the age distribution of players spread across different ranges?
-* How many players fall between specific rating and age filters?
+* What is the total revenue genrated by the Male vs Female ?
+* Which customers used a discount but still spent more than the average puurchase amount ?
+* Which are the top 5 products with the highest average rating ?
+* Compare the average purchase amount between Standard and Express shipping ?
+* Do subscribed customers spend more ? Compare average spend and total revenue between subscribes and non-subscribers ?
+* Which 5 products have the highest percentage of purchases with discount applied ?
+* Segment customers into New, Returning and Loyal based on their total number of previous puchases and show the count of each segment ?
+* What are the top 3 most purchased products with each category ?
+* Are customers who are repeat buyers (more then 5 previous puchases) also likely to subscribe ?
+* What us the revenue contribution of each age group ?
 
 ## Tools And Technologies
 * Microsoft Power BI — for building the dashboard
-* Excel / CSV — as the dataset source
+* MySQL — as the dataset source
+* Python — for Exploratory data analysis
+ 
 
 ## Process
-* Imported and cleaned FC26 sales data using Power BI and Power Query.
-* Transformed data for analysis and handled missing or inconsistent values.
-* Created visualizations (bar, pie, line charts) to summarize sales by item type, outlet size, location, and fat content.
-* Added slicers and filters to make the dashboard interactive and dynamic.
-* Combined all visuals into a single interactive Power BI dashboard.
+* Imported the data into Jupyter Notebook.
+* Performed exploratory data analysis.
+* Imported dataset into Mysql database.
+* Execute various queries to get usefull insights.
+* Imported data into Power Bi.
+* Created measures and visualization (bar chart, Donut chart, slicer) to summerize the customers details.
+* Combined all the visuals into a single interactive dashboard.
+* Created Reports using all the information.
+* Created Presentation for easy explanation.
 
 ## Dashboard
 ![FC26 Dashboard](FC26_Dashboard.png)
