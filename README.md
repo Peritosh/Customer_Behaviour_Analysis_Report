@@ -65,4 +65,4 @@ Customer_Behaviour_Dashboard.png
 * Findout which product is depended on discount.
 
 ## Conclusion
-The customer shopping behaviour dashboard provides a comprehansive overview of customers shopping from online sites.It shows the average amount spend by customers and average review rating including the shipping type how the which shipping type customers prefer to ship thier purchased products,it also shows whether customers subscribe to the premium service or not. 
+The customer shopping behaviour dashboard provides a comprehansive overview of customers shopping from online sites.It shows the average amount spend by customers and average review rating including the shipping type how the which shipping type customers prefer to ship thier purchased products,it also shows whether customers subscribe to the premium services or not. 
