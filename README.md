@@ -1,4 +1,4 @@
-# EA SPORTS FC 26 — Player Statistics Dashboard
+# CUSTOMER SHOPPING BEHAVIOUR ANALYSIS DASHBOAD
 
 ## Project Overview
 This interactive Power BI dashboard provides an in-depth statistical analysis of customers shopping behaviour.
