@@ -9,15 +9,17 @@ The main objective is to analyze customers shopping behaviour ,subscription type
 * Identify the which gender is shopping more male or female.
 * Which shipping method is more preferred by customers.
 * Get the average purchase amount by age group.
+* Which products are highly rated by reviewer.
+* Which products are more likely to sold only with discount.
 
 ## Key KPIs
-* Total Players: 18,410+
-* Number of Countries: 160
-* Youngest Player: 16 years
-* Oldest Player: 44 years
-* Most Valuable Players: Top 10 listed
-* Top Leagues & Nations ranked by player count
-* Common Player Rating Range visualized
+* Total Customers: 3,900
+* Average Purchase Amount: 59.76
+* Subscribed Customers: 1053 (27%)
+* Unsubscribed Customers: 2847 (73%)
+* Average Review Rating: 3.75
+* Sales by category
+* Sales by shipping type
 
 ## Analytical Questions Answered
 * Which country has the highest number of players?
