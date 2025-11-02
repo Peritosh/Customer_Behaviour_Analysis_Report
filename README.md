@@ -59,9 +59,10 @@ Customer_Behaviour_Dashboard.png
 * Gender ratio: Male - 2652
                 Female - 1248
 * Average Review Rating: 3.75.
-* Top Valued Players: Identified the most valuable players, with top 10 listed by market value.
-* Leagues & Nations: Ranked top leagues and countries based on player count.
-* Player Ratings: Most players fall within a common rating range, giving insight into overall skill distribution.
+* Top 3 products by category: Ranked top 3 most sold products by product category.
+* Shipping Type: compared the each shipping type to eachother to find which is preferred by customers.
+* Subscription type: Get the data of subscriber and non-subscribers.
+* Findout which product is depended on discount.
 
 ## Conclusion
-The FC26 dashboard provides a comprehensive overview of the global football player dataset. It highlights player demographics, including age ranges and nationality distribution, identifies the most valuable players, and ranks leagues and nations by player count. The dashboard also offers insights into player skill levels through rating distributions. By combining interactive visuals and dynamic filters, it enables users to explore trends, compare leagues and nations, and gain a clear understanding of the current landscape of football players worldwide.
+The customer shopping behaviour dashboard provides a comprehansive overview of customers shopping from online sites.It shows the average amount spend by customers and average review rating including the shipping type how the which shipping type customers prefer to ship thier purchased products,it also shows whether customers subscribe to the premium service or not. 
